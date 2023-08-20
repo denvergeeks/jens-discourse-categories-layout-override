@@ -1,4 +1,4 @@
-# Categories Layout Override
+# Mobile Categories Layout Override
 
 Fork of [CyanLabs/discourse-categories-layout-override](https://github.com/CyanLabs/discourse-categories-layout-override)
 
