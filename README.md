@@ -4,13 +4,15 @@ Fork of [CyanLabs/discourse-categories-layout-override](https://github.com/CyanL
 
 This allows you to override the mobile categories page layout
 
-Reference: https://meta.discourse.org/t/categories-layout-override/131098
+
 
 ---
 
-...which is a fork of https://github.com/tshenry/discourse-categories-layout-override
+...which is a modified fork of https://github.com/tshenry/discourse-categories-layout-override
 
-This allows you to override the mobile categories page layout
+Which: allows you to override the mobile categories page layout
+
+Reference: https://meta.discourse.org/t/categories-layout-override/131098
 
 ---
 
