@@ -1,6 +1,6 @@
 {
   "name": "Jen's Mobile Categories Layout Override (Mobile Only)",
-  "about_url": "https://meta.discourse.org/t/categories-layout-override/131098",
+  "about_url": "https://github.com/denvergeeks/jens-discourse-mobile-categories-layout-override",
   "license_url": "https://github.com/tshenry/discourse-categories-layout-override-/blob/master/LICENSE",
   "component": true
 }
